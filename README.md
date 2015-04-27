@@ -14,3 +14,9 @@ src:url('fonts/bf-icon-set.eot?#iefixstkrh7') format('embedded-opentype'),
 		url('fonts/bf-icon-set.ttf?stkrh7') format('truetype'),
 		url('fonts/bf-icon-set.svg?stkrh7#bf-icon-set') format('svg');
 ```
+
+```
+Add the style.css file to your html file
+
+<link rel="stylesheet" href="style.css">
+```
